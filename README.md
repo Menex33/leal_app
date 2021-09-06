@@ -1,5 +1,6 @@
 # leal_app
 Top Trend Reddit Test App
+
 --------------------------------------------
 
 Arquitectura usada para las capas de la aplicación y clases.
